@@ -1,2 +1,2 @@
 # Counter
-A simple counter pplication
+A simple counter application
